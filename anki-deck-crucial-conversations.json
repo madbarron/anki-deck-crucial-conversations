@@ -60,7 +60,7 @@
     "note_models": [
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "crowdanki_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
             "flds": [
                 {
@@ -177,7 +177,7 @@
             ],
             "flags": 0,
             "guid": "D^AaVSJ|]y",
-            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
             "tags": [
                 "conversations",
                 "crucial"
@@ -192,7 +192,7 @@
             ],
             "flags": 0,
             "guid": "ze?,PQf645",
-            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
             "tags": [
                 "chapter-1"
             ]
@@ -206,7 +206,7 @@
             ],
             "flags": 0,
             "guid": "E=>9j}XMeh",
-            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
             "tags": [
                 "chapter-1"
             ]
@@ -220,7 +220,7 @@
             ],
             "flags": 0,
             "guid": "lYv9=,6sG2",
-            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
             "tags": [
                 "chapter-1"
             ]
@@ -234,7 +234,7 @@
             ],
             "flags": 0,
             "guid": "v$RKEgA9Db",
-            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
             "tags": [
                 "chapter-1"
             ]
@@ -248,7 +248,7 @@
             ],
             "flags": 0,
             "guid": "n+uJ#@4g#Y",
-            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
             "tags": [
                 "chapter-1"
             ]
@@ -262,7 +262,7 @@
             ],
             "flags": 0,
             "guid": "fJ!aD<ngjs",
-            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
             "tags": [
                 "chapter-1"
             ]
@@ -276,7 +276,7 @@
             ],
             "flags": 0,
             "guid": "pNx&|loBr)",
-            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
             "tags": [
                 "chapter-1"
             ]
@@ -290,7 +290,7 @@
             ],
             "flags": 0,
             "guid": "KP,6vZPvkU",
-            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
             "tags": [
                 "chapter-1"
             ]
@@ -304,7 +304,7 @@
             ],
             "flags": 0,
             "guid": "H6|^i_Ay~*",
-            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
             "tags": [
                 "chapter-1"
             ]
@@ -318,7 +318,7 @@
             ],
             "flags": 0,
             "guid": "Neq7xT=dtV",
-            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
             "tags": [
                 "chapter-1"
             ]
@@ -332,7 +332,7 @@
             ],
             "flags": 0,
             "guid": "Qr}34jAUR+",
-            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
             "tags": [
                 "chapter-1"
             ]
@@ -346,7 +346,7 @@
             ],
             "flags": 0,
             "guid": "erQg2K;nO=",
-            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
             "tags": [
                 "chapter-1"
             ]
@@ -360,7 +360,7 @@
             ],
             "flags": 0,
             "guid": "p.UO8kMhZE",
-            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
             "tags": [
                 "chapter-1"
             ]
@@ -374,7 +374,7 @@
             ],
             "flags": 0,
             "guid": "kdod)%n@@N",
-            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
             "tags": [
                 "chapter-1"
             ]
@@ -388,7 +388,7 @@
             ],
             "flags": 0,
             "guid": "iPP(02DRoJ",
-            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
             "tags": [
                 "chapter-1"
             ]
@@ -402,7 +402,7 @@
             ],
             "flags": 0,
             "guid": "mz?hD7u/<3",
-            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
             "tags": [
                 "chapter-1"
             ]
@@ -416,7 +416,7 @@
             ],
             "flags": 0,
             "guid": "d;zkZvra@N",
-            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
             "tags": [
                 "chapter-1"
             ]
@@ -430,7 +430,7 @@
             ],
             "flags": 0,
             "guid": "gpk|}Bi6cA",
-            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
             "tags": [
                 "chapter-1"
             ]
@@ -444,7 +444,7 @@
             ],
             "flags": 0,
             "guid": "Jn&-M",
-            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
             "tags": [
                 "chapter-1"
             ]
@@ -458,7 +458,7 @@
             ],
             "flags": 0,
             "guid": "iQ,DwX-YZb",
-            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
             "tags": [
                 "chapter-3"
             ]
@@ -472,7 +472,7 @@
             ],
             "flags": 0,
             "guid": "A,O%q)BMf)",
-            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
             "tags": [
                 "chapter-3"
             ]
@@ -486,7 +486,7 @@
             ],
             "flags": 0,
             "guid": "LwQ*aquou7",
-            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
             "tags": [
                 "chapter-3"
             ]
@@ -500,7 +500,7 @@
             ],
             "flags": 0,
             "guid": "k&@6vQOI}",
-            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
             "tags": [
                 "chapter-3"
             ]
@@ -514,7 +514,7 @@
             ],
             "flags": 0,
             "guid": "x/`c$FAc<;",
-            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
             "tags": [
                 "chapter-3"
             ]
@@ -528,7 +528,7 @@
             ],
             "flags": 0,
             "guid": "dg@n!6A<N!",
-            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
             "tags": [
                 "chapter-3"
             ]
@@ -647,6 +647,186 @@
             ],
             "flags": 0,
             "guid": "iiCfoz%d(9",
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63",
+            "tags": [
+                "chapter-6",
+                "master-my-stories"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do you notice your behavior?",
+                "Ask, am I in some form of silence or violence? Take an honest look."
+            ],
+            "flags": 0,
+            "guid": "QGr]n5_pPE",
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63",
+            "tags": [
+                "chapter-6",
+                "master-my-stories"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do you get in touch with your feelings?",
+                "Ask, what emotions are encouraging me to act this way?"
+            ],
+            "flags": 0,
+            "guid": "MU,.4A[xxc",
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63",
+            "tags": [
+                "chapter-6",
+                "master-my-stories"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do you analyze your stories?",
+                "Ask, what story is creating these emotions?<div>Don't confuse stories with facts.</div>"
+            ],
+            "flags": 0,
+            "guid": "kefW%*zmzT",
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63",
+            "tags": [
+                "chapter-6",
+                "master-my-stories"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do you get back to the facts?",
+                "Separate fact from story by focusing on behavior. Ask,&nbsp;what evidence do I have to support this story?<div><br></div><div>Spot the story by watching for \"hot\" words which express judgement.</div>"
+            ],
+            "flags": 0,
+            "guid": "MGMHJ6L:[.",
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63",
+            "tags": [
+                "chapter-6",
+                "master-my-stories"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the three \"Clever\" stories?",
+                "Victim, villain, and helpless"
+            ],
+            "flags": 0,
+            "guid": "orx[hN1A:0",
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63",
+            "tags": [
+                "chapter-6",
+                "master-my-stories"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Why do we tell clever stories?",
+                "<div>Three scenarios:</div><div>(Book says four but only lists three)</div><div><br></div>1. They actually match reality.<div>2. They get us off the hook</div><div>3. They keep us from acknowledging our own sellouts.</div>"
+            ],
+            "flags": 0,
+            "guid": "f5PkH8-C,)",
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63",
+            "tags": [
+                "chapter-6",
+                "master-my-stories"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a sellout?",
+                "We sell out when we consciously act against our own sense of what's right."
+            ],
+            "flags": 0,
+            "guid": "h1t[HO<V^j",
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63",
+            "tags": [
+                "chapter-6",
+                "master-my-stories"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What should you do after realizing you're telling a clever story?",
+                "Tell a useful story."
+            ],
+            "flags": 0,
+            "guid": "LT$7Rdwy#I",
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63",
+            "tags": [
+                "chapter-6",
+                "master-my-stories"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do you repair the Victim story?",
+                "Turn victims into actors. Acknowledge your role in the problem."
+            ],
+            "flags": 0,
+            "guid": "Lf2~OS.+/$",
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63",
+            "tags": [
+                "chapter-6",
+                "master-my-stories"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do you repair the Villain story?",
+                "Turn villains into humans. Why would a reasonable, rational, and decent person do what this person is doing?"
+            ],
+            "flags": 0,
+            "guid": "Q$_*,vR0z3",
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63",
+            "tags": [
+                "chapter-6",
+                "master-my-stories"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do you repair the helpless story?",
+                "Turn the helpless into the able. What do I really want? What would I do right now if I really wanted these results?"
+            ],
+            "flags": 0,
+            "guid": "yOlpH,-fs{",
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63",
+            "tags": [
+                "chapter-6",
+                "master-my-stories"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the three \"Master my Stories\" skills?",
+                "1. Separate fact from Story<div>2. Watch for three clever stories</div><div>3. Tell the rest of the story</div>"
+            ],
+            "flags": 0,
+            "guid": "l{tZDZx!I2",
             "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63",
             "tags": [
                 "chapter-6",
