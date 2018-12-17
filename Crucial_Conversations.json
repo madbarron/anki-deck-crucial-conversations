@@ -1,0 +1,672 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "b2f4bec2-0230-11e9-a288-40167ea99b0c",
+    "deck_config_uuid": "b2f4bec3-0230-11e9-a96a-40167ea99b0c",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "b2f4bec3-0230-11e9-a96a-40167ea99b0c",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1,
+                    10,
+                    360
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 10,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [],
+    "name": "Crucial Conversations",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "chapter-3"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-2c8d7",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "chapter-6",
+                "master-my-stories"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What makes a conversation crucial?",
+                "1. Opinions vary, 2. Stakes are high, 3. Emotions run strong"
+            ],
+            "flags": 0,
+            "guid": "D^AaVSJ|]y",
+            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "tags": [
+                "conversations",
+                "crucial"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Why are we bad at crucial conversations?",
+                "1. Adrenaline production<div>2. Blood goes from brain to arms and legs</div><div>3. They can be spontaneous</div>"
+            ],
+            "flags": 0,
+            "guid": "ze?,PQf645",
+            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "tags": [
+                "crucial-conversations"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do we act in self-defeating ways?",
+                "Become less desirable for others to be around/ get along with. Nagging is not cool."
+            ],
+            "flags": 0,
+            "guid": "H*p1S&T/>m",
+            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "tags": [
+                "crucial-conversations"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How can a crucial conversation kick-start your career?",
+                "Stand up to your boss without antagonizing her."
+            ],
+            "flags": 0,
+            "guid": "E=>9j}XMeh",
+            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "tags": [
+                "crucial-conversations"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How can a crucial converation help your organization (work)?",
+                "In the best organizations, everyone holds everyone else accountable."
+            ],
+            "flags": 0,
+            "guid": "lYv9=,6sG2",
+            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "tags": [
+                "crucial-conversations"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What can crucial conversations help?",
+                "Career, organization, relationships, and health."
+            ],
+            "flags": 0,
+            "guid": "v$RKEgA9Db",
+            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "tags": [
+                "crucial-conversations"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What three things can happen when a crucial conversation is needed?",
+                "1. No conversation is had<div>2. Conversation is had poorly</div><div>3. Conversation is had well</div>"
+            ],
+            "flags": 0,
+            "guid": "n+uJ#@4g#Y",
+            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "tags": [
+                "crucial-conversations"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a fool's choice?",
+                "Thinking that you are deciding between being honest and being respectful, forgetting that you could have a constructive conversation."
+            ],
+            "flags": 0,
+            "guid": "fJ!aD<ngjs",
+            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "tags": [
+                "crucial-conversations"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a dialogue?",
+                "The free flow of meaning between two or more people."
+            ],
+            "flags": 0,
+            "guid": "pNx&|loBr)",
+            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "tags": [
+                "crucial-conversations"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The pool of shared meaning is the birthplace of what?",
+                "Synergy"
+            ],
+            "flags": 0,
+            "guid": "KP,6vZPvkU",
+            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "tags": [
+                "crucial-conversations"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the two ways to not contribute to the pool of shared meaning?",
+                "Silence and Violence"
+            ],
+            "flags": 0,
+            "guid": "H6|^i_Ay~*",
+            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "tags": [
+                "crucial-conversations"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Silence in crucial conversations?",
+                "Agreeing but not being bought-in, sarcasm, or not speaking up."
+            ],
+            "flags": 0,
+            "guid": "Neq7xT=dtV",
+            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "tags": [
+                "crucial-conversations"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is violence in crucial conversations",
+                "Trying to force your perspective on others, or yelling/ attacking/ accusing"
+            ],
+            "flags": 0,
+            "guid": "Qr}34jAUR+",
+            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "tags": [
+                "crucial-conversations"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What does Crucial Conversations teach?",
+                "How to create conditions in yourself and others that make dialogue the path of least resistance."
+            ],
+            "flags": 0,
+            "guid": "erQg2K;nO=",
+            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "tags": [
+                "crucial-conversations"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "When do you need a crucial conversation?",
+                "When you are \"stuck\", and not getting what you want"
+            ],
+            "flags": 0,
+            "guid": "p.UO8kMhZE",
+            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "tags": [
+                "crucial-conversations"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do you break down being stuck?",
+                "With CPR!"
+            ],
+            "flags": 0,
+            "guid": "kdod)%n@@N",
+            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "tags": [
+                "crucial-conversations"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What does CPR stand for?",
+                "Content (specific instance)<div>Pattern</div><div>Relationship (how the problem affects relationships)</div>"
+            ],
+            "flags": 0,
+            "guid": "iPP(02DRoJ",
+            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "tags": [
+                "crucial-conversations"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do we avoid ourselves being silent or violent?",
+                "Start with heart. Think of what I really want, and how I would act if I really want that.<div><br></div><div>Also, master my stories.</div>"
+            ],
+            "flags": 0,
+            "guid": "mz?hD7u/<3",
+            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "tags": [
+                "crucial-conversations"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the first and second things to deteriorate in a crucial conversation?",
+                "1. Our motive<div>2. Our actions</div>"
+            ],
+            "flags": 0,
+            "guid": "d;zkZvra@N",
+            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "tags": [
+                "crucial-conversations"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What does it mean to start with heart?",
+                "1. What am I behaving like I want?<div>2. What do I really want?</div><div>3. How should I behave if that is what I want?</div>"
+            ],
+            "flags": 0,
+            "guid": "gpk|}Bi6cA",
+            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "tags": [
+                "crucial-conversations"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the law of crucial conversations?",
+                "Anytime you find yourself stuck, there is a crucial conversation you are either not holding or not holding well."
+            ],
+            "flags": 0,
+            "guid": "Jn&-M",
+            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "tags": [
+                "chapter-1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the first principle of dialogue?",
+                "Start with heart"
+            ],
+            "flags": 0,
+            "guid": "iQ,DwX-YZb",
+            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "tags": [
+                "chapter-3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the irony in Start with Heart?",
+                "It's the most talented, not the least, who are continually trying to improve their dialogue skills"
+            ],
+            "flags": 0,
+            "guid": "A,O%q)BMf)",
+            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "tags": [
+                "chapter-3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are some motivations to avoid?",
+                "Winning, punishing, keeping the peace"
+            ],
+            "flags": 0,
+            "guid": "LwQ*aquou7",
+            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "tags": [
+                "chapter-3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What questions should you ask yourself about your motives?",
+                "What do I really want for myself?<br>What do I really want for others?<div>What do I really want for the relationship?</div>"
+            ],
+            "flags": 0,
+            "guid": "k&@6vQOI}",
+            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "tags": [
+                "chapter-3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do you search for the \"and\"?",
+                "1. Clarify what you really want<div>2. Clarify what you really don't want</div><div>3. Think of a way to achieve both.</div><div><br></div><div>example - \"Is there a way to talk with your loved one about how you're spending money and not get into an argument?\"</div>"
+            ],
+            "flags": 0,
+            "guid": "x/`c$FAc<;",
+            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "tags": [
+                "chapter-3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What should you do when you find yourself moving to silence or violence?",
+                "Stop and pay attention to your motives."
+            ],
+            "flags": 0,
+            "guid": "dg@n!6A<N!",
+            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
+            "tags": [
+                "chapter-3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the two claims behind Master my Stories?",
+                "1. You and only you create your emotions<div>2. Once you have emotions, you can either act on them or be acted on by them.</div>"
+            ],
+            "flags": 0,
+            "guid": "jPZ@@k]e$0",
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63",
+            "tags": [
+                "chapter-6",
+                "master-my-stories"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What do the worst at dialogue do with their emotions?",
+                "They fall hostage to their emotions and don't even realize it."
+            ],
+            "flags": 0,
+            "guid": "JJ<l-nY^z",
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63",
+            "tags": [
+                "chapter-6",
+                "master-my-stories"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What do the good at dialogue do with their emotions?",
+                "They recognize their emotions but try to suppress or ignore them."
+            ],
+            "flags": 0,
+            "guid": "DN!r`J6UNS",
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63",
+            "tags": [
+                "chapter-6",
+                "master-my-stories"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What do the best at dialogue do with their emotions?",
+                "They act on their emotions, thinking them out, and choosing them."
+            ],
+            "flags": 0,
+            "guid": "C:v|ZEbv0p",
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63",
+            "tags": [
+                "chapter-6",
+                "master-my-stories"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the steps in the Path to Action?",
+                "1. See &amp; Hear<div>2. Tell a Story</div><div>3. Feel</div><div>4. Act</div>"
+            ],
+            "flags": 0,
+            "guid": "wTVam&k+Zn",
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63",
+            "tags": [
+                "chapter-6",
+                "master-my-stories"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Where do our emotions come from?",
+                "The stories we tell ourselves, based on what we see and hear."
+            ],
+            "flags": 0,
+            "guid": "CzDxF#6p-A",
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63",
+            "tags": [
+                "chapter-6",
+                "master-my-stories"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do you take control of your stories?",
+                "Retrace the Path to Action"
+            ],
+            "flags": 0,
+            "guid": "mX-~lX9^@T",
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63",
+            "tags": [
+                "chapter-6",
+                "master-my-stories"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do you retrace the Path to Action?",
+                "1. Notice your behavior<br><div>2. Get in touch with your feelings</div><div>3. Analyze your stories</div><div>4. Get back to the facts</div>"
+            ],
+            "flags": 0,
+            "guid": "iiCfoz%d(9",
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63",
+            "tags": [
+                "chapter-6",
+                "master-my-stories"
+            ]
+        }
+    ]
+}
