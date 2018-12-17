@@ -188,27 +188,13 @@
             "data": "",
             "fields": [
                 "Why are we bad at crucial conversations?",
-                "1. Adrenaline production<div>2. Blood goes from brain to arms and legs</div><div>3. They can be spontaneous</div>"
+                "1. Adrenaline production<div>2. Blood goes from brain to arms and legs (Also adrenaline)</div><div>3. They can be spontaneous</div>"
             ],
             "flags": 0,
             "guid": "ze?,PQf645",
             "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
             "tags": [
-                "crucial-conversations"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "How do we act in self-defeating ways?",
-                "Become less desirable for others to be around/ get along with. Nagging is not cool."
-            ],
-            "flags": 0,
-            "guid": "H*p1S&T/>m",
-            "note_model_uuid": "b2f5d006-0230-11e9-b996-40167ea99b0c",
-            "tags": [
-                "crucial-conversations"
+                "chapter-1"
             ]
         },
         {
@@ -665,6 +651,20 @@
             "tags": [
                 "chapter-6",
                 "master-my-stories"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the downward spiral?",
+                "When we use silence or violence, we act in ways that reinforce others' clever stories about us."
+            ],
+            "flags": 0,
+            "guid": "z8L^GTcivi",
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63",
+            "tags": [
+                "chapter-6"
             ]
         }
     ]
