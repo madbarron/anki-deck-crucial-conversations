@@ -96,7 +96,8 @@
             ],
             "sortf": 0,
             "tags": [
-                "chapter-3"
+                "chapter-7",
+                "state-my-path"
             ],
             "tmpls": [
                 {
@@ -845,6 +846,156 @@
             "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63",
             "tags": [
                 "chapter-6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do the worst at dialogue share touchy information?",
+                "Alternate between being blunt and being silent"
+            ],
+            "flags": 0,
+            "guid": "s0,3mB.?hA",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
+            "tags": [
+                "chapter-7",
+                "state-my-path"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do the good (but not best) at dialogue share risky meaning?",
+                "Understate their views out of fear of hurting others"
+            ],
+            "flags": 0,
+            "guid": "t:}Sk9WOj8",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
+            "tags": [
+                "chapter-7",
+                "state-my-path"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do the best at dialogue share risky information?",
+                "They speak their minds completely while making it safe for others."
+            ],
+            "flags": 0,
+            "guid": "y`=~AzMyT!",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
+            "tags": [
+                "chapter-7",
+                "state-my-path"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the three factors needed to maintain safety while sharing risky information?",
+                "Confidence, Humility, and Skill"
+            ],
+            "flags": 0,
+            "guid": "tTy<b+y[_+",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
+            "tags": [
+                "chapter-7",
+                "state-my-path"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How is confidence needed to share risky information?",
+                "Believe that your opinions deserve to be heard and that you can share them without hurting others"
+            ],
+            "flags": 0,
+            "guid": "E4U.0r%GH)",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
+            "tags": [
+                "chapter-7",
+                "state-my-path"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How is humility needed to share risky information?",
+                "Realize that others have valuable input"
+            ],
+            "flags": 0,
+            "guid": "dA]]7McJ^d",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
+            "tags": [
+                "chapter-7",
+                "state-my-path"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the skills needed to share risky or sensitive information?",
+                "Share your facts<div>Tell your story</div><div>Ask for others' paths</div><div>Talk tentatively</div><div>Encourage testing</div>"
+            ],
+            "flags": 0,
+            "guid": "E=T;P6aZMA",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
+            "tags": [
+                "chapter-7",
+                "state-my-path"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do you talk tentatively?",
+                "Communicate that you are expressing an opinion and are not certain of your conclusions."
+            ],
+            "flags": 0,
+            "guid": "E2R9&.I`:k",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
+            "tags": [
+                "chapter-7",
+                "state-my-path"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do you encourage testing?",
+                "Invite opposing views"
+            ],
+            "flags": 0,
+            "guid": "EU43oc$cG)",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
+            "tags": [
+                "chapter-7",
+                "state-my-path"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How can one avoid being to forceful about subjects they really care about?",
+                "1. Learn to look for silence or violence in others.<div>2. Tone down your approach. Others might have something to contribute.</div>"
+            ],
+            "flags": 0,
+            "guid": "d)OP?KZja%",
+            "note_model_uuid": "775c11e8-024e-11e9-abbb-40167ea99b0c",
+            "tags": [
+                "chapter-7",
+                "state-my-path"
             ]
         }
     ]
